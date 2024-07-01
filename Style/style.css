@@ -621,6 +621,7 @@ line-height: 1.8;
 .contactForm{
     
     height: 94vh;
+    width: 59vh;
     /* background: url('WhatsApp\ Image\ 2024-04-06\ at\ 12.06.06\ PM.jpeg ' ) no-repeat center/cover; */
     display: flex;
     flex-direction: column;
